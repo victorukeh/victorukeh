@@ -39,7 +39,7 @@
   
 ### 🔭Actions
 
-<div align="center">
+<div>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
 	 <img src="https://metrics.lecoq.io/victorukeh?template=classic"/>
 </div>
