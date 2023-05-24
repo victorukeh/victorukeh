@@ -33,6 +33,22 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
   
-  <a href="https://www.ukeh.buzz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=victorukeh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=#272829&theme=transparent" />
+### 🔭Actions
+
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=victorukeh"/>
+</div>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=victorukeh&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/victorukeh?template=classic"/>
+</div>
+  
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
