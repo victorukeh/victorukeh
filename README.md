@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **victorukeh1@gmail.com**
   
-  ### Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
@@ -19,5 +19,18 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=Postgresql)
+  
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Nestjs](https://img.shields.io/badge/-Nestjs-000?&logo=Nestjs)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=Mongodb)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
