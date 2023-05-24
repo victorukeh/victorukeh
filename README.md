@@ -11,4 +11,13 @@
 
 - 📫 How to reach me **victorukeh1@gmail.com**
   
+  ### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Postgres](https://img.shields.io/badge/-Postgres-000?&logo=Postgresql)
+  
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
