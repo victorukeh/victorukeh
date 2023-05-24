@@ -10,6 +10,10 @@
 - 💬 Ask me about **Python, Nest.js, Next.js, SQL**
 
 - 📫 How to reach me **victorukeh1@gmail.com**
+	
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=victorukeh&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
   
 ### Languages
 
@@ -36,19 +40,16 @@
 ### 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=victorukeh"/>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
+	 <img src="https://metrics.lecoq.io/victorukeh?template=classic"/>
 </div>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=victorukeh&theme=github"/>
 </div>
+   -->
+  
 
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/victorukeh?template=classic"/>
-</div>
-  
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
