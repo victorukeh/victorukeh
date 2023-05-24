@@ -4,4 +4,4 @@
 <p>
 
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanda-abdul&" alt="victor" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p>
