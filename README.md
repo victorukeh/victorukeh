@@ -44,10 +44,10 @@
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p> 
 	 <img src="https://metrics.lecoq.io/victorukeh?template=classic"/>
 </div> -->
-<div align="center">
+<!-- <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
+ -->
 <!-- <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=victorukeh&theme=github"/>
 </div>
