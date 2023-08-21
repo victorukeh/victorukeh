@@ -38,12 +38,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
   
-<!-- ### 🔭Actions -->
-
-<!--  <div align="center">
+### 🔭Actions
+ <div align="center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorukeh&theme=dark&hide_border=true" alt="victor" /></p> 
 	 <img src="https://metrics.lecoq.io/victorukeh?template=classic"/>
-</div> -->
+</div>
 <!-- <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
