@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Nest.js, Next.js, SQL**
 
-- 📫 How to reach me **victor.ukeh@ixnoteservices.com*
+- 📫 How to reach me *victor.ukeh@ixnoteservices.com*
 	
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=victorukeh&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
